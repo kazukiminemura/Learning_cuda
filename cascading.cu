@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-// #inlcude <thrust/device.h>
+// #include <thrust/device.h>
 // #include <thrust/device_ptr.h>
 
 // Device parameter
